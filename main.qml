@@ -66,6 +66,7 @@ ApplicationWindow {
         id: filePath;
         text: "未选择图片";
         color: "grey";
+        font.pixelSize: 32;
     }
 
     FileDialog {
